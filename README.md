@@ -1,7 +1,5 @@
 # DensityExchange
 
-# [DensityExchange-reactJS](https://density-exchange-react-js.vercel.app/)
-
 ## Demo
 
 https://github.com/P-Siddikha/DensityExchange/edit/main/README.md
